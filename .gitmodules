@@ -1,0 +1,3 @@
+[submodule "config_backup/crux1_klipper_config"]
+	path = config_backup/crux1_klipper_config
+	url = https://github.com/skylatian/crux1_klipper_config
